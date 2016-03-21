@@ -13,7 +13,7 @@ Or select `"File" > "Scripts" > "Other Scripts..."` and select script file.
 ## How to Use
 It's very simple to use. Just write single or multiple letters and script will search match from all text items in active document.
 
-<a href="https://www.dropbox.com/s/ro6zhaab2509frk/TextSearchSelection_Example_01.gif?raw=1" target="_blank">![Gif](https://www.dropbox.com/s/ro6zhaab2509frk/TextSearchSelection_Example_01.gif?raw=1)</a>
+![Gif](https://github.com/Creatide/AI_Text-Search-Selection/blob/master/Example/TextSearchSelection_Example_01.gif)
 
 #### Features
 
